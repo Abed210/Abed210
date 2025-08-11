@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Blue Team Junior Security Analyst - Security Blue Team](https://elearning.securityblue.team/home/certificate/592225788)
+- [Blue Team Junior Security Analyst](https://elearning.securityblue.team/home/certificate/592225788)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/b06d4b6c-d38c-47b4-ba48-1779f2c80ea9)
 - [Google IT Support Professional](https://www.credly.com/earner/earned/badge/41a07afe-12bc-48bf-bec3-4264156436e0)
 
